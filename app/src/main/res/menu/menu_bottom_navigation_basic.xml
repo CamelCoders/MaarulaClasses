@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="Explore" />
+
+    <item
+        android:id="@+id/navigation_syllabus"
+        android:icon="@drawable/ic_baseline_book_24"
+        android:title="Topics" />
+
+    <item
+        android:id="@+id/navigation_play"
+        android:icon="@drawable/ic_baseline_games_24"
+        android:title="Play" />
+
+    <item
+        android:id="@+id/navigation_tests"
+        android:icon="@drawable/ic_baseline_test"
+        android:title="Tests" />
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        android:title="More" />
+
+
+</menu>

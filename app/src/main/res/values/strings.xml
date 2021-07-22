@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Maaula Classes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="ConfirmationString">\n1- Questions may have negative marks, be careful while attempting a question.\n\n2- Keep an eye on timer, you
+    need to finish is time limit.\n\n3- Questions can be multiple choice or single choice, need to answer appropriately.\n\n4-
+    Time is calculated once yoy start the test, if you leave in middle that time will be considered as well.</string>
+</resources>
